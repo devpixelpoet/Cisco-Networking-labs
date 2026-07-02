@@ -64,3 +64,10 @@ As shown in the deployment screenshots, the routing tables were verified to ensu
 * **Hardware:** Cisco 2811 Routers, Cisco 3560 Multilayer Switches
 * **Software:** Cisco Packet Tracer, MobaXterm Terminal Emulator
 * **Protocols & Concepts:** IPv4 Subnetting (CIDR / VLSM), Layer 3 Switching (`no switchport`), Inter-VLAN Routing (SVI), Static Routing, Cisco IOS CLI, Network Troubleshooting.
+
+* ## 📸 Project Visuals
+
+### Hardware Deployment & CLI Verification
+![Hardware Lab Setup](topology/hardware-lab-setup.jpg)
+![R1 Routing Table](topology/r1-cli-routing-table.jpg)
+![L3](topology/mls-cli-configuration.jpg)
