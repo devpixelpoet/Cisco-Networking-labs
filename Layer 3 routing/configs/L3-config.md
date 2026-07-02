@@ -1,4 +1,3 @@
-### 🖥️ 2. Multilayer Switch Configuration File (`mls-config.md`)
 
 # 🎛️ Multilayer Switch Configuration Commands (Cisco CLI)
 
