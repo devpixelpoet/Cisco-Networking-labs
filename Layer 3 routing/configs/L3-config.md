@@ -1,8 +1,5 @@
 ### 🖥️ 2. Multilayer Switch Configuration File (`mls-config.md`)
 
-Sizning topologiyangizda 3560 Multilayer Switchlar qatnashgani va u yerda Layer 3 komandalari ishlatilgani sababli, GitHub repozitoriyangiz yanada boyroq ko'rinishi uchun ushbu switch konfiguratsiyasini ham qo'shishingiz foydali bo'ladi:
-
-```markdown
 # 🎛️ Multilayer Switch Configuration Commands (Cisco CLI)
 
 This file contains the core Layer 3 switching commands utilized on the **3560 Multilayer Switch** to enable hardware-accelerated routing and Switched Virtual Interfaces (SVIs).
